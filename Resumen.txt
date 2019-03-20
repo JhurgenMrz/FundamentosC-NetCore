@@ -1,0 +1,6 @@
+dotnet new --> Para mirar todos los comandos que podemos utilizar 
+dotnet new console --> para crear una aplicacion de consola
+dotnet run --> para correr nuestra app
+dotnet build --> para compilar nuestra app
+dotnet build -c Release -r win10-x64 --> para compilar para win10
+dotnet new console --output NOMBRE-DE-LA-CARPETA -->para customisar el directorio del proyecto
