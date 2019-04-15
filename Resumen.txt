@@ -4,3 +4,29 @@ dotnet run --> para correr nuestra app
 dotnet build --> para compilar nuestra app
 dotnet build -c Release -r win10-x64 --> para compilar para win10
 dotnet new console --output NOMBRE-DE-LA-CARPETA -->para customisar el directorio del proyecto
+
+C# es creado por Anders Hejilsberg y su equipo
+C# es un lenguaje multiparadigma
+
+Es un lenguaje strong typing(fuertemente tipado)
+-Imperativo
+-Declarativo
+-alineado con el paradigma Functional
+-orientado a objetos(basado en clases)
+-orientado a componentes
+
+Objetos:
+Un objeto es una cosa tangible, algo que se puede aprender intelectualmente o algo haci lo que se puede dirigir una accion o pensamiento
+Un objeto representa un item individual e identificable o una entidad real o abstracta, con un papel definido en el dominio del problema
+Un Objeto tiene:
+        Estado
+        Comportamiento
+        Identidad
+        La estructura y el comportamiento de objetos similares se definen en sus clases comunes. El termino objeto y ejemplo (instance) de una clase son intercambiables.
+
+Clases:
+Una clase es un conjunto de objetos que comparten una estructura y comportamientos comunes.
+La clase representa una abstraccion, la esencia que comparten los objetos.
+Un objeto es un ejemplo de una clase
+Un objeto no es una clase y una clase no es un objeto
+t
