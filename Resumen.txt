@@ -30,3 +30,6 @@ La clase representa una abstraccion, la esencia que comparten los objetos.
 Un objeto es un ejemplo de una clase
 Un objeto no es una clase y una clase no es un objeto
 t
+
+Encapsular --> Protejer los datos
+En la programación orientada a objetos los datos de una clase pueden ser protegidos del acceso directo o público, esto es el Encapsulamiento. Dentro de los métodos por los cuales va a acceder a la información se puede agregar cualquier tipo de lógica.
